@@ -11,7 +11,7 @@ import SwiftUI
 struct CRUD_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ListBootcamp()
         }
     }
 }
